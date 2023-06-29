@@ -1,0 +1,1086 @@
+{
+	"id": "23501",
+	"name": "Nurture",
+	"statuses": [
+		{
+			"id": "153449",
+			"name": "Future"
+		},
+		{
+			"id": "153452",
+			"name": "Dark"
+		},
+		{
+			"id": "244538",
+			"name": "Funder Declined (Rescinded Offer)"
+		},
+		{
+			"id": "245790",
+			"name": "Low Deposits"
+		},
+		{
+			"id": "245804",
+			"name": "Altered Statements"
+		},
+		{
+			"id": "245806",
+			"name": "Missing Statements"
+		},
+		{
+			"id": "245808",
+			"name": "Large Deposits"
+		},
+		{
+			"id": "245810",
+			"name": "Small Deposits"
+		},
+		{
+			"id": "245812",
+			"name": "COVID Affected"
+		},
+		{
+			"id": "246624",
+			"name": "Missing MTD"
+		},
+		{
+			"id": "246846",
+			"name": "Active Submission"
+		},
+		{
+			"id": "246852",
+			"name": "Merchant Declined (Looking For Monthly)"
+		},
+		{
+			"id": "246855",
+			"name": "Wants Larger Dollar Amount"
+		},
+		{
+			"id": "246858",
+			"name": "Wants Consolidation Only"
+		},
+		{
+			"id": "246861",
+			"name": "Merchant Declined (Funded Elsewhere)"
+		},
+		{
+			"id": "248751",
+			"name": "Criminal Background"
+		},
+		{
+			"id": "251085",
+			"name": "App Out Platt"
+		},
+		{
+			"id": "253578",
+			"name": "Unsubscribed"
+		},
+		{
+			"id": "254022",
+			"name": "Starita App Out"
+		},
+		{
+			"id": "254109",
+			"name": "1 Week Revisit"
+		},
+		{
+			"id": "254499",
+			"name": "Tidhar App Out"
+		},
+		{
+			"id": "254502",
+			"name": "Unsubscribed"
+		},
+		{
+			"id": "254949",
+			"name": "Collateral Request"
+		},
+		{
+			"id": "255264",
+			"name": "Overleveraged Revisit"
+		},
+		{
+			"id": "255480",
+			"name": "Consolidation Request"
+		},
+		{
+			"id": "255771",
+			"name": "Not Ready To Take Offer"
+		},
+		{
+			"id": "255774",
+			"name": "Missing Last Month"
+		},
+		{
+			"id": "256251",
+			"name": "Hold"
+		},
+		{
+			"id": "256323",
+			"name": "Merchant Declined (Wants Below 10%)"
+		},
+		{
+			"id": "258690",
+			"name": "Welcome Call"
+		},
+		{
+			"id": "258699",
+			"name": "Lost Contact"
+		},
+		{
+			"id": "259796",
+			"name": "Default History"
+		},
+		{
+			"id": "261435",
+			"name": "Welcome Call Not Established"
+		},
+		{
+			"id": "261438",
+			"name": "Lender Decline Resubmit In 20 Days"
+		},
+		{
+			"id": "261450",
+			"name": "Welcome Call With Last Month"
+		},
+		{
+			"id": "261453",
+			"name": "Welcome Call With MTD"
+		},
+		{
+			"id": "261456",
+			"name": "Lender Decline Resubmit Now"
+		},
+		{
+			"id": "261459",
+			"name": "Lost Contact - Offers Pending"
+		},
+		{
+			"id": "261462",
+			"name": "Missing Banks Over 1 Day"
+		},
+		{
+			"id": "261669",
+			"name": "Merchant Decline (Resubmit Now)"
+		},
+		{
+			"id": "261681",
+			"name": "1 Month Revisit"
+		},
+		{
+			"id": "262811",
+			"name": "Welcome Call"
+		},
+		{
+			"id": "263170",
+			"name": "Negative Days"
+		},
+		{
+			"id": "263656",
+			"name": "Funder Declined (In Reverse With Disbursements)"
+		},
+		{
+			"id": "263659",
+			"name": "In Reverse On Repayment"
+		},
+		{
+			"id": "263839",
+			"name": "Not At This Time"
+		},
+		{
+			"id": "264713",
+			"name": "Only Wants Government Money"
+		},
+		{
+			"id": "264715",
+			"name": "Only Wants Line of Credit"
+		},
+		{
+			"id": "264719",
+			"name": "Closed Bank Account"
+		},
+		{
+			"id": "264765",
+			"name": "Missing Social"
+		},
+		{
+			"id": "264805",
+			"name": "Altered Statements"
+		},
+		{
+			"id": "265029",
+			"name": "Merchant Declined (No Need At This Time)"
+		},
+		{
+			"id": "265151",
+			"name": "Wants Longer Term"
+		},
+		{
+			"id": "265349",
+			"name": "Funder Declined (Startup)"
+		},
+		{
+			"id": "265351",
+			"name": "Sold Business"
+		},
+		{
+			"id": "265353",
+			"name": "Possible Broker"
+		},
+		{
+			"id": "265897",
+			"name": "Worried About Credit"
+		},
+		{
+			"id": "266585",
+			"name": "Statements Only"
+		},
+		{
+			"id": "267901",
+			"name": "Wants 5 Year Term"
+		},
+		{
+			"id": "267903",
+			"name": "Short Form"
+		},
+		{
+			"id": "269067",
+			"name": "2 Week Revisit"
+		},
+		{
+			"id": "269151",
+			"name": "In Reverse Took Money While In Reverse"
+		},
+		{
+			"id": "269221",
+			"name": "Out Of Business"
+		},
+		{
+			"id": "269501",
+			"name": "Just Got Money"
+		},
+		{
+			"id": "270658",
+			"name": "Offers Pending"
+		},
+		{
+			"id": "270740",
+			"name": "Only Wants Collateral"
+		},
+		{
+			"id": "270742",
+			"name": "Missing Transfer Accounts"
+		},
+		{
+			"id": "270894",
+			"name": "Funder Made Offer"
+		},
+		{
+			"id": "270896",
+			"name": "Active Submission (Caller)"
+		},
+		{
+			"id": "270898",
+			"name": "Offers Pending (Caller)"
+		},
+		{
+			"id": "270912",
+			"name": "Revisit - Few Months"
+		},
+		{
+			"id": "270974",
+			"name": "Pending Contracts"
+		},
+		{
+			"id": "270976",
+			"name": "Nurture Contracts"
+		},
+		{
+			"id": "270990",
+			"name": "Wants In Return For Company Equity"
+		},
+		{
+			"id": "271148",
+			"name": "Pending Submission"
+		},
+		{
+			"id": "271190",
+			"name": "Active Inquiry (Email Marketing)"
+		},
+		{
+			"id": "271250",
+			"name": "Revisit - One Month"
+		},
+		{
+			"id": "271336",
+			"name": "Lost Contact - Pre Advance"
+		},
+		{
+			"id": "271530",
+			"name": "No Business Account"
+		},
+		{
+			"id": "271794",
+			"name": "Pending Submission"
+		},
+		{
+			"id": "271902",
+			"name": "Sorry we've missed you"
+		},
+		{
+			"id": "271912",
+			"name": "Active Inquiry (Lost Contact)"
+		},
+		{
+			"id": "271942",
+			"name": "Adjusted Repayments"
+		},
+		{
+			"id": "271990",
+			"name": "Funder Declined (Lost Contact)"
+		},
+		{
+			"id": "272012",
+			"name": "Merchant Declined"
+		},
+		{
+			"id": "272668",
+			"name": "Revisit - One Week"
+		},
+		{
+			"id": "272730",
+			"name": "Excessive Credit Inquiries"
+		},
+		{
+			"id": "272924",
+			"name": "Follow up - June"
+		},
+		{
+			"id": "272928",
+			"name": "Wants Cheaper Money"
+		},
+		{
+			"id": "273340",
+			"name": "Scheduled Call"
+		},
+		{
+			"id": "273352",
+			"name": "Wants 7 Year Term"
+		},
+		{
+			"id": "273728",
+			"name": "Collateral - Wants 5 Years"
+		},
+		{
+			"id": "273822",
+			"name": "Wants Line of Credit Only"
+		},
+		{
+			"id": "274802",
+			"name": "Pending Phone Call"
+		},
+		{
+			"id": "274804",
+			"name": "Submission Hold"
+		},
+		{
+			"id": "275318",
+			"name": "Funder Declined (Personal Bank Statements)"
+		},
+		{
+			"id": "275862",
+			"name": "Funder Declined (Fraud)"
+		},
+		{
+			"id": "276166",
+			"name": "Below Revenue"
+		},
+		{
+			"id": "276170",
+			"name": "Kakzanov"
+		},
+		{
+			"id": "276174",
+			"name": "Funder Declined (NSF)"
+		},
+		{
+			"id": "276182",
+			"name": "Considering Collateral"
+		},
+		{
+			"id": "276436",
+			"name": "Pending Underwriter Call"
+		},
+		{
+			"id": "276438",
+			"name": "Wants Grant Money Only"
+		},
+		{
+			"id": "276442",
+			"name": "Retired"
+		},
+		{
+			"id": "276504",
+			"name": "Pending Submission (No Notification)"
+		},
+		{
+			"id": "276510",
+			"name": "Revisit - Two Weeks"
+		},
+		{
+			"id": "276740",
+			"name": "Pending Submission (Collateral)"
+		},
+		{
+			"id": "276764",
+			"name": "Only Looking For Factoring"
+		},
+		{
+			"id": "277139",
+			"name": "Funder Declined (Low Revenue)"
+		},
+		{
+			"id": "277141",
+			"name": "Funder Declined (Negative Days/NSFs)"
+		},
+		{
+			"id": "277731",
+			"name": "Funder Declined (In Recovery/Reverse)"
+		},
+		{
+			"id": "277794",
+			"name": "Funder Declined (Altered Statements)"
+		},
+		{
+			"id": "277797",
+			"name": "Pending Submission (Schedule of Assets)"
+		},
+		{
+			"id": "277823",
+			"name": "Pending Completion"
+		},
+		{
+			"id": "277827",
+			"name": "Broker"
+		},
+		{
+			"id": "277936",
+			"name": "Not Enough Savings"
+		},
+		{
+			"id": "277945",
+			"name": "Funder Declined (Default)"
+		},
+		{
+			"id": "278041",
+			"name": "Funder Declined (Modified Payments)"
+		},
+		{
+			"id": "278080",
+			"name": "Funder Made Offer (Collateral)"
+		},
+		{
+			"id": "278083",
+			"name": "Funder Declined (Signed Docs Elsewhere)"
+		},
+		{
+			"id": "278482",
+			"name": "Merchant Decline (Default Offer)"
+		},
+		{
+			"id": "278536",
+			"name": "Missing EIN"
+		},
+		{
+			"id": "278548",
+			"name": "Locked Credit"
+		},
+		{
+			"id": "278557",
+			"name": "Funder Declined (WBL)"
+		},
+		{
+			"id": "278560",
+			"name": "Funder Declined (Overleveraged)"
+		},
+		{
+			"id": "278563",
+			"name": "Active Inquiry (Marketing)"
+		},
+		{
+			"id": "278674",
+			"name": "Val App Out"
+		},
+		{
+			"id": "278728",
+			"name": "Bruno app out"
+		},
+		{
+			"id": "278767",
+			"name": "Funder Declined (Fraud/Theft)"
+		},
+		{
+			"id": "279286",
+			"name": "Active Submission (Larry)"
+		},
+		{
+			"id": "279687",
+			"name": "Funder Made Offer (Larry)"
+		},
+		{
+			"id": "279690",
+			"name": "Missing Stips More Than 40 Days"
+		},
+		{
+			"id": "279693",
+			"name": "Missing Stips Less Than 40 Days"
+		},
+		{
+			"id": "279708",
+			"name": "Are you still looking for funding? (Statements)"
+		},
+		{
+			"id": "279819",
+			"name": "Funder Declined (Collateral/WBL)"
+		},
+		{
+			"id": "280638",
+			"name": "Merchant Declined (Collateral)"
+		},
+		{
+			"id": "281046",
+			"name": "VinVolume"
+		},
+		{
+			"id": "281440",
+			"name": "Wants Below 16%"
+		},
+		{
+			"id": "281557",
+			"name": "Just Got SBA"
+		},
+		{
+			"id": "282514",
+			"name": "Milman App Out"
+		},
+		{
+			"id": "282517",
+			"name": "Pending Completion (Collateral Review)"
+		},
+		{
+			"id": "282520",
+			"name": "Pending Completion (Underwriter Review)"
+		},
+		{
+			"id": "282946",
+			"name": "Wants Equipment Financing"
+		},
+		{
+			"id": "284770",
+			"name": "Pending Completion (Consolidation Review)"
+		},
+		{
+			"id": "285145",
+			"name": "Yermalife"
+		},
+		{
+			"id": "285643",
+			"name": "Website - Missing Statements"
+		},
+		{
+			"id": "285645",
+			"name": "Website - Missing MTD"
+		},
+		{
+			"id": "287038",
+			"name": "Submit to Bitty"
+		},
+		{
+			"id": "287041",
+			"name": "Active Inquiry (Underwriter Review)"
+		},
+		{
+			"id": "287836",
+			"name": "Missing Stips"
+		},
+		{
+			"id": "287854",
+			"name": "Erblin App Out"
+		},
+		{
+			"id": "287968",
+			"name": "Jackson App Out"
+		},
+		{
+			"id": "287971",
+			"name": "Alex App Out"
+		},
+		{
+			"id": "288376",
+			"name": "Pending Completion (Application Only)"
+		},
+		{
+			"id": "288853",
+			"name": "Pending Completion (Coleman Review)"
+		},
+		{
+			"id": "290314",
+			"name": "Stop Email"
+		},
+		{
+			"id": "290434",
+			"name": "Stopped Payments"
+		},
+		{
+			"id": "292997",
+			"name": "Not Enough Equity"
+		},
+		{
+			"id": "294286",
+			"name": "Russ App Out"
+		},
+		{
+			"id": "294463",
+			"name": "Complete Submission (Cash Advance)"
+		},
+		{
+			"id": "294466",
+			"name": "Incomplete Statements (Cash Advance)"
+		},
+		{
+			"id": "294469",
+			"name": "Incomplete MTD (Cash Advance)"
+		},
+		{
+			"id": "294820",
+			"name": "Active Inquiry (Cash Advance)"
+		},
+		{
+			"id": "294844",
+			"name": "Outside US"
+		},
+		{
+			"id": "295063",
+			"name": "Pending Completion (Taylor Review)"
+		},
+		{
+			"id": "297529",
+			"name": "Stephen App Out"
+		},
+		{
+			"id": "297544",
+			"name": "Merchant Declined (Offer Expired)"
+		},
+		{
+			"id": "299953",
+			"name": "McKinnon App Out"
+		},
+		{
+			"id": "300268",
+			"name": "Isaac's App Out"
+		},
+		{
+			"id": "304483",
+			"name": "Kaare App Out"
+		},
+		{
+			"id": "306337",
+			"name": "Bitty"
+		},
+		{
+			"id": "313045",
+			"name": "Only Looking For Consolidation"
+		},
+		{
+			"id": "314296",
+			"name": "Bruno App Out"
+		},
+		{
+			"id": "316213",
+			"name": "Woo App Out"
+		},
+		{
+			"id": "317329",
+			"name": "Closed Business Bankruptcy"
+		},
+		{
+			"id": "317335",
+			"name": "Live Transfer"
+		},
+		{
+			"id": "318742",
+			"name": "Wrong Business Information"
+		},
+		{
+			"id": "319003",
+			"name": "Wants Advance For Future Payout"
+		},
+		{
+			"id": "320224",
+			"name": "John App Out"
+		},
+		{
+			"id": "320227",
+			"name": "Trigger - Missing Statements"
+		},
+		{
+			"id": "320452",
+			"name": "Information Sent"
+		},
+		{
+			"id": "320608",
+			"name": "Isaiah App Out"
+		},
+		{
+			"id": "320902",
+			"name": "Funder Declined (Poor Credit)"
+		},
+		{
+			"id": "324772",
+			"name": "Non-Profit"
+		},
+		{
+			"id": "324997",
+			"name": "Non-US Business"
+		},
+		{
+			"id": "325045",
+			"name": "Call Back Request"
+		},
+		{
+			"id": "325452",
+			"name": "Funder Declined (Negative History)"
+		},
+		{
+			"id": "327470",
+			"name": "Funder Declined (Lowered/Modified Payments)"
+		},
+		{
+			"id": "327476",
+			"name": "Funder Declined (Inconsistent Revenue)"
+		},
+		{
+			"id": "329552",
+			"name": "Funder Declined (Autosales)"
+		},
+		{
+			"id": "329558",
+			"name": "NYNJ App Out"
+		},
+		{
+			"id": "329669",
+			"name": "NYNJ Reserve"
+		},
+		{
+			"id": "330227",
+			"name": "NYNJ Reserve List"
+		},
+		{
+			"id": "330344",
+			"name": "Merchant Declined (Wants More Money)"
+		},
+		{
+			"id": "330374",
+			"name": "Trigger - Pending Completion (ERC Review)"
+		},
+		{
+			"id": "331298",
+			"name": "Woosevelt app out"
+		},
+		{
+			"id": "331301",
+			"name": "Michael app out"
+		},
+		{
+			"id": "331808",
+			"name": "Daniel App Out"
+		},
+		{
+			"id": "332231",
+			"name": "App Out (ERC)"
+		},
+		{
+			"id": "332246",
+			"name": "Not Interested (ERC)"
+		},
+		{
+			"id": "332249",
+			"name": "Wrong Phone Number (ERC)"
+		},
+		{
+			"id": "332267",
+			"name": "ERC (Inquiry)"
+		},
+		{
+			"id": "332291",
+			"name": "App Out (Taisha)"
+		},
+		{
+			"id": "332309",
+			"name": "Defaulted On Albert"
+		},
+		{
+			"id": "332708",
+			"name": "Mel App Out"
+		},
+		{
+			"id": "332738",
+			"name": "Will's App Out "
+		},
+		{
+			"id": "332741",
+			"name": "Will's 1 Month Revisit"
+		},
+		{
+			"id": "332744",
+			"name": "Will's 2 Month Revisit"
+		},
+		{
+			"id": "332747",
+			"name": "Will's Information Sent"
+		},
+		{
+			"id": "332750",
+			"name": "Will's Call Back Request"
+		},
+		{
+			"id": "333356",
+			"name": "Amilman-App out"
+		},
+		{
+			"id": "333611",
+			"name": "Amoy's Revisit"
+		},
+		{
+			"id": "333614",
+			"name": "Pete's Revisit"
+		},
+		{
+			"id": "335402",
+			"name": "Missing Statements (Marketing Team)"
+		},
+		{
+			"id": "335405",
+			"name": "Missing MTD (Marketing Team)"
+		},
+		{
+			"id": "335408",
+			"name": "Pending Submission (Marketing Team)"
+		},
+		{
+			"id": "336644",
+			"name": "Merchant Declined (Wants 24 Months)"
+		},
+		{
+			"id": "336647",
+			"name": "Merchant Declined (Got Better Offer)"
+		},
+		{
+			"id": "336650",
+			"name": "Merchant Declined (Not Tribeca)"
+		},
+		{
+			"id": "336653",
+			"name": "Merchant Declined (Legal)"
+		},
+		{
+			"id": "336656",
+			"name": "Merchant Declined (Too Expensive)"
+		},
+		{
+			"id": "336659",
+			"name": "Merchant Declined (Wants Better Offer)"
+		},
+		{
+			"id": "336662",
+			"name": "Merchant Declined (Wants Offer Breakdown)"
+		},
+		{
+			"id": "336698",
+			"name": "Application Submitted (ERC) "
+		},
+		{
+			"id": "340148",
+			"name": "Will's Duplicate"
+		},
+		{
+			"id": "340151",
+			"name": "Funder Declined (Cashapp/Square/Lily)"
+		},
+		{
+			"id": "340163",
+			"name": "Merchant Declined (Lost Contact)"
+		},
+		{
+			"id": "340235",
+			"name": "Pending Submission (NJTG)"
+		},
+		{
+			"id": "340781",
+			"name": "Need App"
+		},
+		{
+			"id": "343349",
+			"name": "Pending Submission (Application)"
+		},
+		{
+			"id": "343352",
+			"name": "Pending Submission (Statements)"
+		},
+		{
+			"id": "343511",
+			"name": "Funder Made Offer (No Contact)"
+		},
+		{
+			"id": "343517",
+			"name": "Funder Made Offer (Working)"
+		},
+		{
+			"id": "343679",
+			"name": "Marketing HOLD"
+		},
+		{
+			"id": "343970",
+			"name": "Pending Submission (Call Request)"
+		},
+		{
+			"id": "343979",
+			"name": "Missing Stips (Marketing Team)"
+		},
+		{
+			"id": "344306",
+			"name": "DOA  (Leave Note) (Marketing Team)"
+		},
+		{
+			"id": "344309",
+			"name": "Need MTD (Marketing Team)"
+		},
+		{
+			"id": "344312",
+			"name": "Active Submission (Marketing Team)"
+		},
+		{
+			"id": "344315",
+			"name": "Lost Contact (Marketing Team)"
+		},
+		{
+			"id": "345089",
+			"name": "Funder Made Offer (Call Scheduled)"
+		},
+		{
+			"id": "345353",
+			"name": "Revisit (Next Month)"
+		},
+		{
+			"id": "345602",
+			"name": "Pending Submission (Lost Contact)"
+		},
+		{
+			"id": "345605",
+			"name": "Floor File"
+		},
+		{
+			"id": "345608",
+			"name": "Pending Submission (No Contact)"
+		},
+		{
+			"id": "345611",
+			"name": "Merchant Declined (AMA)"
+		},
+		{
+			"id": "345614",
+			"name": "Funder Declined (Slow Month)"
+		},
+		{
+			"id": "345617",
+			"name": "Funder Declined (In Collections)"
+		},
+		{
+			"id": "345641",
+			"name": "Pending Submission (Unanswered)"
+		},
+		{
+			"id": "345644",
+			"name": "Application Requested (Marketing Team)"
+		},
+		{
+			"id": "345647",
+			"name": "Bitty Sub (Marketing Team)"
+		},
+		{
+			"id": "345650",
+			"name": "Merchant Declined (Unrealistic Expectations)"
+		},
+		{
+			"id": "345671",
+			"name": "Tier 1 Underwriting (Call Scheduled)"
+		},
+		{
+			"id": "345989",
+			"name": "Revisit (Spring)"
+		},
+		{
+			"id": "346001",
+			"name": "TEST RECORDS"
+		},
+		{
+			"id": "346208",
+			"name": "Litigator TCPA"
+		},
+		{
+			"id": "346601",
+			"name": "Merchant Declined (Statements)"
+		},
+		{
+			"id": "347240",
+			"name": "Pending Submission (Statements Requested)"
+		},
+		{
+			"id": "347243",
+			"name": "Pending Submission (Application Requested)"
+		},
+		{
+			"id": "347249",
+			"name": "Pending Submission (Short Form)"
+		},
+		{
+			"id": "347273",
+			"name": "Merchant Declined (Wants Longer Term)"
+		},
+		{
+			"id": "347276",
+			"name": "Merchant Declined (Wants Lower Rate)"
+		},
+		{
+			"id": "347282",
+			"name": "Pending Submission (MTD)"
+		},
+		{
+			"id": "347312",
+			"name": "Pending Submission (Synergy)"
+		},
+		{
+			"id": "348224",
+			"name": "Dupes Test"
+		},
+		{
+			"id": "348713",
+			"name": "DUPE RECORD"
+		},
+		{
+			"id": "349970",
+			"name": "Funder Declined (No Social/ID)"
+		},
+		{
+			"id": "349973",
+			"name": "Funder Declined (Inhouse)"
+		},
+		{
+			"id": "350393",
+			"name": "Funder Made Offer (Ghosting)"
+		},
+		{
+			"id": "352097",
+			"name": "Rita"
+		}
+	]
+}
